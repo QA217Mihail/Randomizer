@@ -8,7 +8,7 @@ names = ['Сысуева', 'Стрельцов', 'Никитина', 'Кашап
 random.shuffle(names)
 
 # assign ticket numbers
-ticket_numbers = list(range(1, len(names)+10))
+ticket_numbers = list(range(1, len(names)+11))
 random.shuffle(ticket_numbers)
 
 # print the randomized list with ticket numbers
